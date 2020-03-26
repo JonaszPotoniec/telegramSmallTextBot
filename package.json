@@ -1,0 +1,22 @@
+{
+  "name": "smalltextbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonaszPotoniec/telegramSmallTextBot.git"
+  },
+  "author": "Jonasz Potoniec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonaszPotoniec/telegramSmallTextBot/issues"
+  },
+  "homepage": "https://github.com/JonaszPotoniec/telegramSmallTextBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}

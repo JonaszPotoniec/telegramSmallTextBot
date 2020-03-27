@@ -9,8 +9,8 @@ You can test it here: [@smallText_bot](https://t.me/smallText_bot)
 <h3 align="center">Usage</h3>
 <center>
 Just send a message to my bot and it will reply with your message but with ~~cool~~ little letters.  
-Now you can copy it and send it to your friends
-![example](./example.jpg)
+Now you can copy it and send it to your friends  
+<img src="example.jpg" />
 </center>
 
 ***

@@ -11,3 +11,8 @@ bot.on('message', (msg) => {
         msg.chat.id, (msg.text.split("").map(swapFunction)).join("")
     );
 });
+
+bot.on('polling_error', (error) => {
+    console.log(Date(), error);
+});
+

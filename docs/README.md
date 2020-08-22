@@ -32,7 +32,11 @@ Now you can copy it and send it to your friends<br><br>
 
 |setting      | description |
 |-------------|-------------|
-| `remove_unknown`       | This defines if characters that can't be converted should be deleted |
+| `remove_unknown`       | Defines if characters that can't be converted should be deleted |
 | `token`     | This is your bot token. It's required and can be easily obtained from [Bot Father](https://telegram.me/BotFather)|
+| `no_text_message`     | Message sent if no text has been found |
+| `count_messages`     | Defines if number of messages should be counted and saved in statistics.json |
+| `count_messages_daily`     | Grouping messages by days. It can slighty increase memory usage over time |
+| `save_interval`     | How often statistics should be saved. They are also saved on exit |
 
 

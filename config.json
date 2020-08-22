@@ -1,4 +1,10 @@
 {
     "remove_unknown": false,
-    "token": ""
+    "token": "",
+    "no_text_message": "No text has been found",
+    "statistics": {
+        "count_messages": true,
+        "count_messages_daily": false,
+        "save_interval": 900000
+    }
 }

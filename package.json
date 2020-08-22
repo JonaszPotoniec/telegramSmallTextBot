@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JonaszPotoniec/telegramSmallTextBot#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.40.0"
+    "node-telegram-bot-api": "^0.50.0"
   }
 }

@@ -20,7 +20,7 @@ Now you can copy it and send it to your friends<br><br>
 ```
 * git clone https://github.com/JonaszPotoniec/telegramSmallTextBot.git
 * npm install  
-* <insert your bot token into confing.json>  
+* <insert your bot token into config.json>  
 * npm start  
 ```
 ***
